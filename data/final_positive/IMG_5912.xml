@@ -1,0 +1,26 @@
+<annotation>
+	<folder>positive_resized</folder>
+	<filename>IMG_5912.JPG</filename>
+	<path>C:\Users\sakis\2025_CV\water-dispenser-detector\data\positive_resized\IMG_5912.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>60</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>186</ymin>
+			<xmax>565</xmax>
+			<ymax>991</ymax>
+		</bndbox>
+	</object>
+</annotation>
